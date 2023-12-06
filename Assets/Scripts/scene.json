@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Main Camera",
+    "prefabName": "",
+    "transformData": {
+      "position": [
+        10.9503164,
+        0.49984774,
+        -3.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "primitiveData": 0,
+    "materialData": "",
+    "colliderData": 0,
+    "otherComponentsData": null
+  },
+  {
+    "name": "Player",
+    "prefabName": "",
+    "transformData": {
+      "position": [
+        10.9503164,
+        0.49984774,
+        -3.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rotation": [
+        1.00000012,
+        1.0,
+        1.0
+      ]
+    },
+    "primitiveData": 3,
+    "materialData": "Default-Material",
+    "colliderData": 1,
+    "otherComponentsData": null
+  },
+  {
+    "name": "Cube",
+    "prefabName": "",
+    "transformData": {
+      "position": [
+        23.0,
+        0.0,
+        8.5
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        25.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "primitiveData": 1,
+    "materialData": "Default-Material",
+    "colliderData": 1,
+    "otherComponentsData": null
+  },
+  {
+    "name": "Cube (1)",
+    "prefabName": "",
+    "transformData": {
+      "position": [
+        -23.0,
+        0.0,
+        8.5
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        25.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "primitiveData": 1,
+    "materialData": "Default-Material",
+    "colliderData": 1,
+    "otherComponentsData": null
+  },
+  {
+    "name": "Cube (2)",
+    "prefabName": "",
+    "transformData": {
+      "position": [
+        0.0,
+        -1.0,
+        8.5
+      ],
+      "scale": [
+        50.0,
+        1.0,
+        25.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "primitiveData": 1,
+    "materialData": "Default-Material",
+    "colliderData": 1,
+    "otherComponentsData": null
+  },
+  {
+    "name": "save",
+    "prefabName": "",
+    "transformData": {
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "primitiveData": 0,
+    "materialData": "",
+    "colliderData": 0,
+    "otherComponentsData": null
+  },
+  {
+    "name": "Directional Light",
+    "prefabName": "",
+    "transformData": {
+      "position": [
+        0.0,
+        3.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rotation": [
+        50.0,
+        330.0,
+        0.0
+      ]
+    },
+    "primitiveData": 0,
+    "materialData": "",
+    "colliderData": 0,
+    "otherComponentsData": null
+  }
+]
